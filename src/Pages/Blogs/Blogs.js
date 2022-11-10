@@ -36,7 +36,7 @@ const Blogs = () => {
         permissions the client has been granted
       </p>
       <h2 className="text-2xl font-semibold">
-        what is jwt, and how does it work?
+        what is the difference between javascript and node.js
       </h2>
     </div>
   );
