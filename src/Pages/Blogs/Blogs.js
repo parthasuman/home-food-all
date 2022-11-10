@@ -47,6 +47,20 @@ const Blogs = () => {
       <h2 className="text-2xl font-semibold">
         how does node js handle multiple requests at the same time
       </h2>
+      <p>
+        {" "}
+        NodeJS event loop is single threaded. The entire server architecture for
+        NodeJS is not single threaded. Before getting into the Node server
+        architecture, to take a look at typical multithreaded request response
+        model, the web server would have multiple threads and when concurrent
+        requests get to the webserver, the webserver picks threadOne from the
+        threadPool and threadOne processes requestOne and responds to clientOne
+        and when the second request comes in, the web server picks up the second
+        thread from the threadPool and picks up requestTwo and processes it and
+        responds to clientTwo. threadOne is responsible for all kinds of
+        operations that requestOne demanded including doing any blocking IO
+        operations.
+      </p>
     </div>
   );
 };
