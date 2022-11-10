@@ -38,6 +38,12 @@ const Blogs = () => {
       <h2 className="text-2xl font-semibold">
         what is the difference between javascript and node.js
       </h2>
+      <p>
+        JavaScript is a simple programming language that can be used with any
+        browser that has the JavaScript Engine installed. Node. js, on the other
+        hand, is an interpreter or execution environment for the JavaScript
+        programming language.
+      </p>
     </div>
   );
 };
