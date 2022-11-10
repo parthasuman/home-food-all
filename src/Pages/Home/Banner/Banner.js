@@ -8,7 +8,7 @@ const Banner = () => {
     <div className="carousel w-full">
       <div id="slide1" className="carousel-item relative w-full">
         <img src={img1} alt="" className="w-full" />
-        <div className="absolute flex justify-between transform -translate-y-1/2 left-56 top-1/4">
+        <div className="absolute flex justify-between transform ">
           <h1 className="text-5xl font-bold text-white ">
             Affordable <br></br>
             Price for Pizza<br></br>
@@ -28,7 +28,7 @@ const Banner = () => {
       <div id="slide2" className="carousel-item relative w-full">
         <img src={img2} alt="" className="w-full" />
 
-        <div className="absolute flex justify-between transform -translate-y-1/2 left-56 top-1/4">
+        <div className="absolute flex justify-between transform">
           <h1 className="text-5xl font-bold text-white ">
             Affordable <br></br>
             Price for Burger<br></br>
@@ -48,7 +48,7 @@ const Banner = () => {
       </div>
       <div id="slide3" className="carousel-item relative w-full">
         <img src={img3} alt="" className="w-full" />
-        <div className="absolute flex justify-between transform -translate-y-1/2 left-56 top-1/4">
+        <div className="absolute flex justify-between transform">
           <h1 className="text-5xl font-bold text-white ">
             Affordable <br></br>
             Price for Grill<br></br>
