@@ -44,6 +44,9 @@ const Blogs = () => {
         hand, is an interpreter or execution environment for the JavaScript
         programming language.
       </p>
+      <h2 className="text-2xl font-semibold">
+        how does node js handle multiple requests at the same time
+      </h2>
     </div>
   );
 };
