@@ -54,6 +54,14 @@ const router = createBrowserRouter([
           </PrivateRoute>
         ),
       },
+      {
+        path: "/post",
+        element: (
+          <PrivateRoute>
+            <Post></Post>
+          </PrivateRoute>
+        ),
+      },
     ],
   },
 ]);
