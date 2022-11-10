@@ -7,6 +7,7 @@ import ServiceFood from "../Pages/ServiceFood/ServiceFood";
 import Reviews from "../Pages/Reviews/Reviews";
 import PrivateRoute from "./PrivateRoute/PrivateRoute";
 import Post from "../Pages/Home/Post/Post";
+import Blogs from "../Pages/Blogs/Blogs";
 
 const { createBrowserRouter } = require("react-router-dom");
 
@@ -30,6 +31,10 @@ const router = createBrowserRouter([
       {
         path: "/signup",
         element: <SignUp></SignUp>,
+      },
+      {
+        path: "/blogs",
+        element: <Blogs></Blogs>,
       },
       {
         path: "/servicefood/:id",
