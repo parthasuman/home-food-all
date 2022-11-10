@@ -13,9 +13,10 @@ const About = () => {
             <p className="text-2xl text-orange-600">About Us</p>
             <h1 className="text-5xl font-bold">Our home food !</h1>
             <p className="py-6">
-              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-              excepturi exercitationem quasi. In deleniti eaque aut repudiandae
-              et a id nisi.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
+              pariatur optio nemo distinctio quam quod perspiciatis. Totam,
+              laudantium odit illum quasi deserunt ullam, alias, magni tenetur
+              ab voluptatem modi dolore!
             </p>
             <button className="btn btn-primary">Get Started</button>
           </div>
