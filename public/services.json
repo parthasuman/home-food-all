@@ -1,0 +1,56 @@
+[
+  {
+    "service_id": "01",
+    "title": "King Burger",
+    "price": "100",
+    "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus sit molestias, provident adipisci minima consequatur ea animi? Officia quisquam minima quia nesciunt explicabo eum, dolorum incidunt, quae unde facilis amet.",
+    "img": "https://i.postimg.cc/NG5xwwvq/king-burger.jpg",
+    "rating": "4.5",
+    "time": "1 hour"
+  },
+  {
+    "service_id": "02",
+    "title": "Small Burger",
+    "price": "100",
+    "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus sit molestias, provident adipisci minima consequatur ea animi? Officia quisquam minima quia nesciunt explicabo eum, dolorum incidunt, quae unde facilis amet.",
+    "img": "https://i.postimg.cc/nc1K4Vvm/small-burger.jpg",
+    "rating": "4.5",
+    "time": "1 hour"
+  },
+  {
+    "service_id": "03",
+    "title": "Pizza",
+    "price": "100",
+    "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus sit molestias, provident adipisci minima consequatur ea animi? Officia quisquam minima quia nesciunt explicabo eum, dolorum incidunt, quae unde facilis amet.",
+    "img": "https://i.postimg.cc/hjpg8dPw/pizza.jpg",
+    "rating": "4.5",
+    "time": "1 hour"
+  },
+  {
+    "service_id": "04",
+    "title": "Chicken Grill",
+    "price": "100",
+    "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus sit molestias, provident adipisci minima consequatur ea animi? Officia quisquam minima quia nesciunt explicabo eum, dolorum incidunt, quae unde facilis amet.",
+    "img": "https://i.postimg.cc/PfMJ5CWB/chicken-grill.jpg",
+    "rating": "4.5",
+    "time": "1 hour"
+  },
+  {
+    "service_id": "05",
+    "title": "Fish Grill",
+    "price": "100",
+    "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus sit molestias, provident adipisci minima consequatur ea animi? Officia quisquam minima quia nesciunt explicabo eum, dolorum incidunt, quae unde facilis amet.",
+    "img": "https://i.postimg.cc/vTSd6wH6/fish-grill.jpg",
+    "rating": "4.5",
+    "time": "1 hour"
+  },
+  {
+    "service_id": "06",
+    "title": "Hot Dog",
+    "price": "100",
+    "description": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus sit molestias, provident adipisci minima consequatur ea animi? Officia quisquam minima quia nesciunt explicabo eum, dolorum incidunt, quae unde facilis amet.",
+    "img": "https://i.postimg.cc/g2VBCPFq/hot-dog.jpg",
+    "rating": "4.5",
+    "time": "1 hour"
+  }
+]
