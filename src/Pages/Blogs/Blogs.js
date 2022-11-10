@@ -20,6 +20,24 @@ const Blogs = () => {
         SQL databases are better for multi-row transactions, while NoSQL is
         better for unstructured data like documents or JSON.
       </p>
+      <h2 className="text-2xl font-semibold">
+        what is jwt, and how does it work?
+      </h2>
+      <p>
+        JWT, or JSON Web Token, is an open standard used to share security
+        information between two parties — a client and a server. Each JWT
+        contains encoded JSON objects, including a set of claims. JWTs are
+        signed using a cryptographic algorithm to ensure that the claims cannot
+        be altered after the token is issued.<br></br>
+        JWTs differ from other web tokens in that they contain a set of claims.
+        Claims are used to transmit information between two parties. What these
+        claims are depends on the use case at hand. For example, a claim may
+        assert who issued the token, how long it is valid for, or what
+        permissions the client has been granted
+      </p>
+      <h2 className="text-2xl font-semibold">
+        what is jwt, and how does it work?
+      </h2>
     </div>
   );
 };
